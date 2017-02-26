@@ -1,0 +1,4 @@
+*.lock 
+node_modules
+example
+example.js

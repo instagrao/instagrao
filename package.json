@@ -1,0 +1,12 @@
+{
+  "name": "instagrao",
+  "version": "0.0.0",
+  "description": "Unofficial instagram module for nodejs.",
+  "main": "index.js",
+  "repository": "git@github.com:instagrao/instagrao.git",
+  "author": "micaelsouza <micael.souza@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "unirest": "^0.5.1"
+  }
+}
